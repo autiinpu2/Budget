@@ -1,4 +1,4 @@
-##Ceci est le README final, le projet ne fait pas actuellement toutes ces possibilités##
+## Ceci est le README final, le projet ne fait pas actuellement toutes ces possibilités
 
 # 💰 **Budget**  
 
